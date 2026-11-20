@@ -1,0 +1,9 @@
+*.ino -text
+*.md text eol=lf
+*.csv text eol=lf
+*.png binary
+*.jpg binary
+*.mp4 binary
+*.pdf binary
+*.docx binary
+*.f3d binary

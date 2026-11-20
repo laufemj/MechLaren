@@ -1,0 +1,19 @@
+# Local CAD exports and editor state
+.DS_Store
+Thumbs.db
+desktop.ini
+*.bak
+*.tmp
+*.log
+.vscode/
+.idea/
+
+# Arduino build products
+build/
+*.hex
+*.elf
+*.o
+
+# Machine-specific manufacturing output
+*.gcode
+*.gcode.3mf
